@@ -36,7 +36,7 @@ You will need to run three simultaneous terminal windows:
 - Build and install the CLI: `make build-pow`
 - Build the Powergate server: `make build-powd`
 - `cd docker`
-- `make devnet`
+- `make localnet`
 
 
 ## Install and run
